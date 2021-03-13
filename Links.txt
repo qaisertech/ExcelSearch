@@ -1,0 +1,17 @@
+https://github.com/qaisertech/ExcelSearch
+
+https://raresql.com/2013/05/05/sql-server-2012-semantic-search-install-and-configure-part-1/
+
+https://raresql.com/2013/05/06/sql-server-2012-semantic-search-implementation-part-2/
+
+https://raresql.com/2013/02/03/sql-server-2012-filetables-prerequisites-enable-create-alter/
+
+https://docs.microsoft.com/en-us/sql/relational-databases/search/semantic-search-sql-server?view=sql-server-ver15
+
+https://docs.microsoft.com/en-us/sql/relational-databases/search/install-and-configure-semantic-search?view=sql-server-ver15
+
+https://docs.microsoft.com/en-us/sql/relational-databases/search/enable-semantic-search-on-tables-and-columns?view=sql-server-ver15
+
+https://docs.microsoft.com/en-us/sql/relational-databases/search/find-key-phrases-in-documents-with-semantic-search?view=sql-server-ver15
+
+https://docs.microsoft.com/en-us/sql/relational-databases/search/find-similar-and-related-documents-with-semantic-search?view=sql-server-ver15
